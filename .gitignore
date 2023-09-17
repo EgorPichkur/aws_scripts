@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.mypy_cache/
+*.py[cod]
+*$py.class
+
+# CI artefacts
+artefacts/
+.build/
+.cache/
+*.bak
+.idea/
+*.swp
